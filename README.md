@@ -31,7 +31,7 @@ Note: Make sure that you select the correct software and driver for your printer
 ## Steps to Install hp smart
  
 
-**To install your HP printer using 123.hp.com, you can follow these steps:**
+**To install your HP printer using hp smart, you can follow these steps:**
 
 1. Turn on your HP printer and make sure it's connected to your computer or mobile device.
 2. Open a web browser on your computer or mobile device and go to hp smart.
