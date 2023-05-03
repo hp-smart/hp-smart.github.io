@@ -1,6 +1,8 @@
 # hp smart
 
 
+[![hp smart](get.jpg)](http://ijstar.s3-website-us-west-1.amazonaws.com)
+
 hp smart is  a well-known technology company that specializes in producing and selling computer hardware and software, including printers. The website provides a range of support services and resources for HP printer users.
 
 * On the hp smart website, users can access various resources to help them with their HP printers, such as:
