@@ -11,7 +11,7 @@ hp smart
     :align: center
     :height: 300px
     :alt: hp smart
-    :target: http://123pri.s3-website-us-west-1.amazonaws.com
+    :target: https://hp.printredir.com
     
 |
 
